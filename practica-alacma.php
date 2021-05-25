@@ -15,6 +15,13 @@ function tuNombre($nombre, $apellidos) {
     echo "Mi nombre es " . $nombre . " y mis apellidos son " . $apellidos;
 }
 
+/*
+ * Funcion de prueba para probar el cambio en github
+ * @param string $textoPrueba
+ */
+function metodoPrueba($textoPrueba){
+    echo "Esto es un texto de prueba para github";
+}
 /**
  * Función que suma dos números y devuelve el resultado
  * @param int $num1
